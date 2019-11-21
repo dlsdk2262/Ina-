@@ -1,0 +1,55 @@
+body {
+    background-color: #b5d99c;
+    margin: 100px;
+    color: #f5f7dc;
+
+}
+
+h1 {
+    color: #ffb924;
+}
+
+a {
+    text-decoration: none;
+    color: #fd151b;
+}
+
+a:hover {
+    color: #619b8a;
+}
+
+h1 {
+
+    text-shadow: 4px 4px 6px #000000;
+}
+
+h1,
+h2 {
+    font-family: 'Yeon Sung', cursive;
+}
+
+a {
+    font-family: 'Nanum Brush Script', cursive;
+font-family: 'Yeon Sung', cursive;
+font-family: 'Tomorrow', sans-serif;
+}
+
+.link {
+    font-size: 25px;
+}
+
+.big {
+    font-size: 35px;
+    color: #451941;
+    text-shadow: 5px 5px 7px #000000;
+}
+
+
+
+p.a {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+}
